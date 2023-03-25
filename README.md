@@ -11,4 +11,3 @@ queries i.e. Native Queries and Spring Data JPA Queries.
 - In master module i have inserted company, location, product etc. entities in database and implemented JPARepository for it.
 - Used the concepts of DBMS Pagination and Sorting for product registers and for that i again implemeted JPARepository for it.
 - For Login verification i have used WebSecurityConfigurerAdapter class and for password encryption i have used BCryptPasswordEncoder class.
-- I will upload demo site for it after the completion of frontend work.
